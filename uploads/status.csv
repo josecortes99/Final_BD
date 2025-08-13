@@ -1,0 +1,4 @@
+status_id,transaction_status
+1,Completada
+2,Fallida
+3,Pendiente
